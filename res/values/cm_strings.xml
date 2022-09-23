@@ -41,4 +41,8 @@
     <string name="theme_customization_icon_shape_title">Icon shape</string>
     <!-- [CHAR_LIMIT=NONE] Display Settings: Title of the setting which enables overlays to customize the statusbar icon -->
     <string name="theme_customization_icon_pack_title">System Icons</string>
+
+    <!-- Torch Power button gestures -->
+    <string name="torch_long_press_power_gesture_title">Long press for torch</string>
+    <string name="torch_long_press_power_gesture_desc">Activate the torch by long pressing the power button while the display is off</string>
 </resources>
